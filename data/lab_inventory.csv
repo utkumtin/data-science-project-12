@@ -1,0 +1,4 @@
+Chemical,Amount,Unit,IsHazardous
+Methylamine,25,liter,True
+Acetone,10,liter,False
+MercuryFulminate,0.5,kg,True
